@@ -1,0 +1,1 @@
+function [fX, fY, slope, intercept, Rsquared] = linearRegression(x,y)

@@ -1,12 +1,12 @@
-#Linear Regression 
+# Linear Regression 
 
-##linearRegression.m
+## linearRegression.m
 Function finds the linear regression line of given set of data points. Can recognize and remove outliers, and will inform the user of how many are removed. 
 
-###Inputs
+### Inputs
 x - array containing values of the independent variable
 y - array containing values of the dependent variable
-###Outputs
+### Outputs
 fX - x array with outliers removed
 fY - y array with outliers removed
 slope - slope of the regression line
